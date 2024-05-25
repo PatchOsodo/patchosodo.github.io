@@ -2,7 +2,7 @@
 
 ---
 
-### Graphic Design 
+### Poster Design 
 
 <h3>Coach George's Tennis</h3>
 <br/>
