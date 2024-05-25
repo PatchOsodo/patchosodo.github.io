@@ -12,7 +12,7 @@
 <br/>
 <img src="images/Ambassador_Snap.png?raw=true" height="413"/>
 
-<h3>Jumior Ballers bash</h3>
+<h3>Junior Ballers bash</h3>
 <br/>
 <img src="images/Junior-ballers-bash_Snap.png?raw=true" height="413"/>
 
