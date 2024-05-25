@@ -1,14 +1,18 @@
 title: Patch Osodo # your name (or website title) here
 logo: "/images/Screenshot from 2024-05-02 14-57-58.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-	IT Service Desk Analyst, COB assistant(t24)
-	Website developer
-	Cyber security enthusiast
+<br>
+IT Service Desk Analyst, COB assistant(t24)
+<br>
+Website developer
+<br>
+Cyber security enthusiast
+<br>
 links:
   - text: "View my Resume"
     url: "https://aiapply.co/r/66517d7a4a89a"
   - text: "Find me on LinkedIn"
-    url: "https://www.linkedin.com/in/example/"
+    url: "https://www.linkedin.com/in/osodopatch"
   - text: "Check out my github"
     url: "https://github.com/PatchOsodo"
 remote_theme: pages-themes/minimal@v0.2.0
