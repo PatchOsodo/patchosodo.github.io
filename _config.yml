@@ -1,18 +1,19 @@
 title: Patch Osodo # your name (or website title) here
-logo: "/images/Screenshot from 2024-05-02 14-57-58.png?raw=true" # your photo (or logo) here
+logo: "/images/Patch.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-<article>
-<br/>
-<h3>IT Service Desk Analyst, COB assistant(t24)</h3>
-<h3>Website developer</h3>
-<h3>Cyber security enthusiast</h3>
-</article>
-<article>
-<h3><a href="https://aiapply.co/r/66517d7a4a89a">View my Resume</a></h3>
-<h3><a href="https://www.linkedin.com/in/example/">Find me on LinkedIn</a></h3>
-<h3><a href="https://github.com/PatchOsodo"/>Check out my github</a></h3>
-</article>
+ IT Service Desk Analyst, COB assistant(t24)
+  Website developer
+  Cyber security enthusiast
+links:
+  - text: "View my Resume"
+    url: "https://aiapply.co/r/66517d7a4a89a"
+  - text: "Find me on LinkedIn"
+    url: "https://www.linkedin.com/in/example/"
+  - text: "Check out my github"
+    url: "https://github.com/PatchOsodo"
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID he
+  - jekyll-remote-theme
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+styles:
+  font_size: 16px # specify your desired font size here
